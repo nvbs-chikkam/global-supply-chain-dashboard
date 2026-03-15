@@ -9,7 +9,7 @@ An end-to-end Power BI logistics dashboard engineered to monitor global revenue 
 * **Data Processing:** DAX, Power Query
 
 ## Dashboard Preview
-![Dashboard Preview](dashboard-preview.jpg)
+![Dashboard Preview](dashboard-preview.png)
 
 ## Core Features
 * Real-time transit mode efficiency tracking.
